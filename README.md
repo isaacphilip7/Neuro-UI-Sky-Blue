@@ -28,7 +28,7 @@ The goal is to make NeuroSan feel as approachable as a modern SaaS product — w
 
 ### Before — Original NeuroSan UI
 
-The starting point: a functional but developer-facing interface with dense layouts, no theming, and limited visual hierarchy.
+The starting point: a functional but developer-facing interface.
 
 ![Original NeuroSan UI](assets/screenshot_dark.png)
 
