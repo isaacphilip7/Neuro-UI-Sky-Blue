@@ -42,6 +42,20 @@ A full UI redesign was created in Figma first, establishing the layout, color sy
 
 ---
 
+### Final Build
+
+The finished implementation — pixel-close to the Figma spec, fully functional in the browser.
+
+**Light Mode**
+
+![Final Build Light Mode](assets/final_build_light.png)
+
+**Dark Mode**
+
+![Final Build Dark Mode](assets/final_build_dark.png)
+
+---
+
 ## ✨ Features in Action
 
 ### 🌗 Dark & Light Mode
